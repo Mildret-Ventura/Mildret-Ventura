@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9A7DFA&center=true&vCenter=true&width=600&lines=✨+Hola%2C+soy+Mildret+🌙;🚀+Estudiante+de+Desarrollo+de+Software;💻+Apasionada+por+la+tecnología">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=9A7DFA&center=true&vCenter=true&width=600&lines=✨+Hola%2C+soy+Mildret+🌙" />
 </p>
 
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7FFFD4&width=435&lines=📬+Contacto" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7FFFD4&width=435&lines=📬+Contacto" />
 </p>
 
 📧 [20243ds047@utez.edu.mx](mailto:20243ds047@utez.edu.mx)  
@@ -13,7 +13,7 @@
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&width=435&lines=⚡+Pila+Tecnológica" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=600&color=FFD700&width=435&lines=⚡+Pila+Tecnológica" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&width=435&lines=🌌+Sobre+mí" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=700&color=FF69B4&width=435&lines=🌌+Sobre+mí" />
 </p>
 
 - 🔹 Soy **curiosa** y disfruto aprender por mi cuenta.  
@@ -34,7 +34,7 @@
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=435&lines=📊+Estadísticas" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00BFFF&width=435&lines=📊+Estadísticas" />
 </p>
 
 ![Mildret's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)  
@@ -43,5 +43,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=✨+Gracias+por+visitar+mi+perfil;💻+Cada+código+cuenta+una+historia;🌙+Siempre+aprendiendo+y+soñando" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=✨+Gracias+por+visitar+mi+perfil" />
 </p>
