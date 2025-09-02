@@ -10,18 +10,11 @@ Soy **Mildret Ventura**, estudiante de **Desarrollo de Software**.
 Tengo **20 años** y me apasiona aprender nuevas tecnologías y aplicarlas en proyectos reales.  
 Me gusta transformar ideas en soluciones funcionales y siempre busco mejorar mis habilidades en **desarrollo web, aplicaciones y bases de datos**. 
 
----
-
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7FFFD4&width=435&lines=📬+Contacto&repeat=false" />
 </p>
 
 📧 [20243ds047@utez.edu.mx](mailto:20243ds047@utez.edu.mx)  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)  
-[![Portfolio](https://img.shields.io/badge/Portafolio-Web-blueviolet?style=flat&logo=vercel&logoColor=white)](https://tu-portafolio.com)  
-
----
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=600&color=FFD700&width=500&lines=⚡+Pila+Tecnológica&repeat=false" />
@@ -34,12 +27,10 @@ Me gusta transformar ideas en soluciones funcionales y siempre busco mejorar mis
 </p>
 
 <p align="center">
-  <!-- Íconos disponibles -->
   <img src="https://skillicons.dev/icons?i=c,cpp,python,php,js,html,css,java,netbeans,vscode,intellij,sublimetext,figma,git,github" />
 </p>
 
 <p align="center">
-  <!-- Herramientas sin ícono, representadas con emojis -->
   🖥️ VirtualBox &nbsp;&nbsp; 🎓 Alice &nbsp;&nbsp; 🗄️ XAMPP &nbsp;&nbsp; 🌐 Packet Tracer &nbsp;&nbsp; 📝 PSeInt &nbsp;&nbsp; 📱 App Inventor &nbsp;&nbsp; 💻 Dev-C++
 </p>
 
