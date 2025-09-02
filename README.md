@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=9A7DFA&center=true&vCenter=true&width=600&lines=✨+Hola%2C+soy+Mildret+🌙&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=9A7DFA&center=true&vCenter=true&width=600&lines= +Hola%2C+soy+Mildret+Ventura+🌙&repeat=false" />
 </p>
-
----
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7FFFD4&width=435&lines=📬+Contacto&repeat=false" />
