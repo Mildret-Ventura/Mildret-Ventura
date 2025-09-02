@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=700&color=FF69B4&width=435&lines=🌌+Sobre+mí&repeat=false" />
 </p>
 
-Soy **Mildret Ventura**, estudiante de **Desarrollo de Software**.  
+Soy **Mildret Ventura**, estudiante de **Desarrollo de Software Multiplataforma**.  
 Tengo **20 años** y me apasiona aprender nuevas tecnologías y aplicarlas en proyectos reales.  
 Me gusta transformar ideas en soluciones funcionales y siempre busco mejorar mis habilidades en **desarrollo web, aplicaciones y bases de datos**.  
 
