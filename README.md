@@ -10,11 +10,18 @@ Soy **Mildret Ventura**, estudiante de **Desarrollo de Software**.
 Tengo **20 años** y me apasiona aprender nuevas tecnologías y aplicarlas en proyectos reales.  
 Me gusta transformar ideas en soluciones funcionales y siempre busco mejorar mis habilidades en **desarrollo web, aplicaciones y bases de datos**. 
 
+---
+
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7FFFD4&width=435&lines=📬+Contacto&repeat=false" />
 </p>
 
 📧 [20243ds047@utez.edu.mx](mailto:20243ds047@utez.edu.mx)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)  
+[![Portfolio](https://img.shields.io/badge/Portafolio-Web-blueviolet?style=flat&logo=vercel&logoColor=white)](https://tu-portafolio.com)  
+
+---
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=600&color=FFD700&width=500&lines=⚡+Pila+Tecnológica&repeat=false" />
@@ -32,10 +39,11 @@ Me gusta transformar ideas en soluciones funcionales y siempre busco mejorar mis
 </p>
 
 <p align="center">
-  <!-- Herramientas sin ícono -->
-  🖥️ VirtualBox &nbsp;&nbsp; 🎓 Alice &nbsp;&nbsp; 📱 App Inventor &nbsp;&nbsp; 🗄️ XAMPP &nbsp;&nbsp; 🌐 Packet Tracer &nbsp;&nbsp; 📝 PSeInt &nbsp;&nbsp; 💻 Dev-C++
+  <!-- Herramientas sin ícono, representadas con emojis -->
+  🖥️ VirtualBox &nbsp;&nbsp; 🎓 Alice &nbsp;&nbsp; 🗄️ XAMPP &nbsp;&nbsp; 🌐 Packet Tracer &nbsp;&nbsp; 📝 PSeInt &nbsp;&nbsp; 📱 App Inventor &nbsp;&nbsp; 💻 Dev-C++
 </p>
 
+---
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00BFFF&width=435&lines=📊+Estadísticas&repeat=false" />
@@ -43,9 +51,28 @@ Me gusta transformar ideas en soluciones funcionales y siempre busco mejorar mis
 
 ![Mildret's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mildret-Ventura&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mildret-Ventura&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mildret-Ventura&theme=radical)  
+
+---
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FF8C00&width=500&lines=🚀+Proyectos+Destacados&repeat=false" />
+</p>
+
+- [🔗 Proyecto 1](https://github.com/Mildret-Ventura/tu-proyecto) – Breve descripción del proyecto  
+- [🔗 Proyecto 2](https://github.com/Mildret-Ventura/tu-proyecto) – Breve descripción del proyecto  
 
 ---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=BA55D3&center=true&vCenter=true&width=900&lines=✨+Gracias+por+visitar+mi+perfil;🌌+Aquí+cada+línea+de+código+cuenta+una+historia;🌿+El+universo+y+la+naturaleza+son+mi+inspiración" />
+</p>
+
+<p align="center">
+  <!-- Snake contribuciones -->
+  ![snake gif](https://github.com/Mildret-Ventura/Mildret-Ventura/blob/output/github-contribution-grid-snake.svg)
+</p>
+
+<p align="center">
+  ![Visitas](https://komarev.com/ghpvc/?username=Mildret-Ventura&color=blueviolet&style=flat)
 </p>
