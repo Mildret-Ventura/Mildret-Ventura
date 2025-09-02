@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=9A7DFA&center=true&vCenter=true&width=750&lines=Holaaa!%2C+soy+Mildret+Ventura+🌙" />
+  <!-- Animado al inicio (solo una vez), luego queda estático -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=9A7DFA&center=true&vCenter=true&width=750&lines=Holaaa!%2C+soy+Mildret+Ventura+🌙&repeat=false" />
 </p>
 
 ---
 
+<!-- SOBRE MÍ -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=700&color=FF69B4&width=435&lines=🌌+Sobre+mí&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF69B4&width=435&lines=🌌+Sobre+mí&repeat=false" />
 </p>
 
 Soy **Mildret Ventura**, estudiante de **Desarrollo de Software**.  
@@ -14,20 +16,26 @@ Me gusta transformar ideas en soluciones funcionales y siempre busco mejorar mis
 
 ---
 
+<!-- CONTACTO -->
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7FFFD4&width=435&lines=📬+Contacto&repeat=false" />
 </p>
-📧 [20243ds047@utez.edu.mx](mailto:20243ds047@utez.edu.mx)  
+
+📧 **Correo:** [20243ds047@utez.edu.mx](mailto:20243ds047@utez.edu.mx)  
 
 ---
 
+<!-- PILA TECNOLÓGICA -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=600&color=FFD700&width=500&lines=⚡+Pila+Tecnológica&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FFD700&width=500&lines=⚡+Pila+Tecnológica&repeat=false" />
 </p>
 
 💻 Tecnologías, lenguajes y herramientas con las que he trabajado:
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=00FF7F&center=true&vCenter=true&width=750&lines=Lenguajes%3A+C;C++;Python;PHP;JavaScript;HTML;CSS;Java;IDEs%3A+NetBeans;Visual+Studio;IntelliJ+IDEA;Sublime+Text;PSeInt;Alice;App+Inventor;Dev-C++;Bases+de+datos%3A+MySQL;XAMPP;Virtualización%3A+VirtualBox;SELinux;Redes%3A+Packet+Tracer;Diseño%3A+Figma;Control+de+versiones%3A+Git+Bash;GitHub&repeat=false" /> </p>
+<p align="center">
+  <!-- Aquí sí animamos el contenido que rota -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=00FF7F&center=true&vCenter=true&width=750&lines=Lenguajes%3A+C;C++;Python;PHP;JavaScript;HTML;CSS;Java;IDEs%3A+NetBeans;Visual+Studio;IntelliJ+IDEA;Sublime+Text;PSeInt;Alice;App+Inventor;Dev-C++;Bases+de+datos%3A+MySQL;XAMPP;Virtualización%3A+VirtualBox;SELinux;Redes%3A+Packet+Tracer;Diseño%3A+Figma;Control+de+versiones%3A+Git+Bash;GitHub&repeat=true" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,php,js,html,css,java,vscode,figma,git,github" />
@@ -39,6 +47,7 @@ Me gusta transformar ideas en soluciones funcionales y siempre busco mejorar mis
 
 ---
 
+<!-- ESTADÍSTICAS -->
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00BFFF&width=435&lines=📊+Estadísticas&repeat=false" />
 </p>
@@ -49,6 +58,7 @@ Me gusta transformar ideas en soluciones funcionales y siempre busco mejorar mis
 
 ---
 
+<!-- PROYECTOS -->
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FF8C00&width=500&lines=🚀+Proyectos+Destacados&repeat=false" />
 </p>
@@ -58,5 +68,5 @@ Me gusta transformar ideas en soluciones funcionales y siempre busco mejorar mis
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=BA55D3&center=true&vCenter=true&width=900&lines=✨+Gracias+por+visitar+mi+perfil;🌌+Aquí+cada+línea+de+código+cuenta+una+historia" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=BA55D3&center=true&vCenter=true&width=900&lines=✨+Gracias+por+visitar+mi+perfil;🌌+Aquí+cada+línea+de+código+cuenta+una+historia&repeat=true" />
 </p>
