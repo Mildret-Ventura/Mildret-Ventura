@@ -27,9 +27,7 @@ Me gusta transformar ideas en soluciones funcionales y siempre busco mejorar mis
 
 💻 Tecnologías, lenguajes y herramientas con las que he trabajado:
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=00FF7F&center=true&vCenter=true&width=750&lines=Lenguajes%3A+C;C++;Python;PHP;JavaScript;HTML;CSS;Java;IDEs%3A+NetBeans;Visual+Studio;IntelliJ+IDEA;Sublime+Text;PSeInt;Alice;App+Inventor;Dev-C++;Bases+de+datos%3A+MySQL;XAMPP;Virtualización%3A+VirtualBox;SELinux;Redes%3A+Packet+Tracer;Diseño%3A+Figma;Control+de+versiones%3A+Git+Bash;GitHub&repeat=false" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=00FF7F&center=true&vCenter=true&width=750&lines=Lenguajes%3A+C;C++;Python;PHP;JavaScript;HTML;CSS;Java;IDEs%3A+NetBeans;Visual+Studio;IntelliJ+IDEA;Sublime+Text;PSeInt;Alice;App+Inventor;Dev-C++;Bases+de+datos%3A+MySQL;XAMPP;Virtualización%3A+VirtualBox;SELinux;Redes%3A+Packet+Tracer;Diseño%3A+Figma;Control+de+versiones%3A+Git+Bash;GitHub&repeat=false" /> </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,php,js,html,css,java,vscode,figma,git,github" />
