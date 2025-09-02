@@ -42,4 +42,23 @@ Me gusta transformar ideas en soluciones funcionales y siempre busco mejorar mis
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00BFFF&width=435&lines=📊+Estadísticas&repeat=false" />
+</p>
+
+![Mildret's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mildret-Ventura&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mildret-Ventura&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mildret-Ventura&theme=radical)  
+
+---
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FF8C00&width=500&lines=🚀+Proyectos+Destacados&repeat=false" />
+</p>
+
+- [🔗 Proyecto 1](https://github.com/Vixo-vDev/Integradora_Zentix) – Proyecto colaborativo acerca de gestión de equipos de redes.
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=BA55D3&center=true&vCenter=true&width=900&lines=✨+Gracias+por+visitar+mi+perfil;🌌+Aquí+cada+línea+de+código+cuenta+una+historia" />
+</p>
