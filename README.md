@@ -20,14 +20,22 @@ Me gusta transformar ideas en soluciones funcionales y siempre busco mejorar mis
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=600&color=FFD700&width=500&lines=⚡+Pila+Tecnológica&repeat=false" />
 </p>
 
-💻 Estas son algunas de las tecnologías, lenguajes y herramientas con las que he trabajado:
+💻 Tecnologías, lenguajes y herramientas con las que he trabajado:
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=00FF7F&center=true&vCenter=true&width=750&lines=Lenguajes%3A+C;C++;Python;PHP;JavaScript;HTML;CSS;Java;IDEs%3A+NetBeans;Visual+Studio;IntelliJ+IDEA;Sublime+Text;PSeInt;Alice;App+Inventor;Dev-C++;Bases+de+datos%3A+MySQL;XAMPP;Virtualización%3A+VirtualBox;SELinux;Redes%3A+Packet+Tracer;Diseño%3A+Figma;Control+de+versiones%3A+Git+Bash;GitHub&repeat=false" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,php,js,html,css,java,netbeans,vscode,intellij,sublimetext,alice,figma,git,github,devc,xampp,packettracer,virtualbox" />
+  <!-- Íconos disponibles -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,php,js,html,css,java,netbeans,vscode,intellij,sublimetext,figma,git,github" />
+</p>
+
+<p align="center">
+  <!-- Herramientas sin ícono, representadas con emojis -->
+  🖥️ VirtualBox &nbsp;&nbsp; 🎓 Alice &nbsp;&nbsp; 🗄️ XAMPP &nbsp;&nbsp; 🌐 Packet Tracer &nbsp;&nbsp; 📝 PSeInt &nbsp;&nbsp; 📱 App Inventor &nbsp;&nbsp; 💻 Dev-C++
+</p>
+rc="https://skillicons.dev/icons?i=c,cpp,python,php,js,html,css,java,netbeans,vscode,intellij,sublimetext,alice,figma,git,github,devc,xampp,packettracer,virtualbox" />
 </p>
 
 <p align="left">
