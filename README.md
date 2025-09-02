@@ -67,5 +67,5 @@ Me gusta transformar ideas en soluciones funcionales y siempre busco mejorar mis
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=BA55D3&center=true&vCenter=true&width=900&lines=✨+Gracias+por+visitar+mi+perfil;🌌+Aquí+cada+línea+de+código+cuenta+una+historia" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=BA55D3&center=true&vCenter=true&width=900&lines=🌌+Aquí+cada+línea+de+código+cuenta+una+historia" />
 </p>
