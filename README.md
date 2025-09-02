@@ -53,20 +53,10 @@ Me gusta transformar ideas en soluciones funcionales y siempre busco mejorar mis
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FF8C00&width=500&lines=🚀+Proyectos+Destacados&repeat=false" />
 </p>
 
-- [🔗 Proyecto 1](https://github.com/Mildret-Ventura/tu-proyecto) – Breve descripción del proyecto  
-- [🔗 Proyecto 2](https://github.com/Mildret-Ventura/tu-proyecto) – Breve descripción del proyecto  
-
+- [🔗 Proyecto 1](https://github.com/Vixo-vDev/Integradora_Zentix) – Proyecto colaborativo hacerca de gestion de equipos de redes.
+- 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=BA55D3&center=true&vCenter=true&width=900&lines=✨+Gracias+por+visitar+mi+perfil;🌌+Aquí+cada+línea+de+código+cuenta+una+historia;🌿+El+universo+y+la+naturaleza+son+mi+inspiración" />
-</p>
-
-<p align="center">
-  <!-- Snake contribuciones -->
-  ![snake gif](https://github.com/Mildret-Ventura/Mildret-Ventura/blob/output/github-contribution-grid-snake.svg)
-</p>
-
-<p align="center">
-  ![Visitas](https://komarev.com/ghpvc/?username=Mildret-Ventura&color=blueviolet&style=flat)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=BA55D3&center=true&vCenter=true&width=900&lines=✨+Gracias+por+visitar+mi+perfil;🌌+Aquí+cada+línea+de+código+cuenta+una+historia" />
 </p>
