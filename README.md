@@ -4,9 +4,7 @@
 
 ---
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=700&color=FF69B4&width=435&lines=🌌+Sobre+mí&repeat=false" />
-</p>
+## 🌌 Sobre mí  
 
 🔹 Soy **curiosa** y disfruto aprender por mi cuenta.  
 🔹 Me gusta transformar ideas en proyectos funcionales 💡.  
@@ -16,17 +14,13 @@
 
 ---
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7FFFD4&width=435&lines=📬+Contacto&repeat=false" />
-</p>
+## 📬 Contacto  
 
 📧 [20243ds047@utez.edu.mx](mailto:20243ds047@utez.edu.mx)  
 
 ---
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=600&color=FFD700&width=435&lines=⚡+Pila+Tecnológica&repeat=false" />
-</p>
+## ⚡ Pila Tecnológica  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=C;C++;HTML;PHP;Python;JavaScript" />
@@ -40,9 +34,7 @@
 
 ---
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00BFFF&width=435&lines=📊+Estadísticas&repeat=false" />
-</p>
+## 📊 Estadísticas  
 
 ![Mildret's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mildret-Ventura&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mildret-Ventura&layout=compact&theme=radical)  
