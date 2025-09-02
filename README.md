@@ -32,11 +32,10 @@ Me gusta transformar ideas en soluciones funcionales y siempre busco mejorar mis
 </p>
 
 <p align="center">
-  <!-- Herramientas sin ícono, representadas con emojis -->
-  🖥️ VirtualBox &nbsp;&nbsp; 🎓 Alice &nbsp;&nbsp; 🗄️ XAMPP &nbsp;&nbsp; 🌐 Packet Tracer &nbsp;&nbsp; 📝 PSeInt &nbsp;&nbsp; 📱 App Inventor &nbsp;&nbsp; 💻 Dev-C++
+  <!-- Herramientas sin ícono -->
+  🖥️ VirtualBox &nbsp;&nbsp; 🎓 Alice &nbsp;&nbsp; 📱 App Inventor &nbsp;&nbsp; 🗄️ XAMPP &nbsp;&nbsp; 🌐 Packet Tracer &nbsp;&nbsp; 📝 PSeInt &nbsp;&nbsp; 💻 Dev-C++
 </p>
-rc="https://skillicons.dev/icons?i=c,cpp,python,php,js,html,css,java,netbeans,vscode,intellij,sublimetext,alice,figma,git,github,devc,xampp,packettracer,virtualbox" />
-</p>
+
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00BFFF&width=435&lines=📊+Estadísticas&repeat=false" />
