@@ -37,7 +37,7 @@ Me gusta transformar ideas en soluciones funcionales y siempre busco mejorar mis
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,php,js,html,css,java,vscode,figma,git,github,gitbash" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,php,js,html,css,java,vscode,figma,git,github" />
 </p>
 
 <p align="center">
