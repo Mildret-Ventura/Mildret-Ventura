@@ -43,8 +43,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00BFFF&width=435&lines=📊+Estadísticas&repeat=false" />
 </p>
 
-![Mildret's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)  
+![Mildret's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mildret-Ventura&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mildret-Ventura&layout=compact&theme=radical)  
 
 ---
 
